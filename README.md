@@ -1,9 +1,8 @@
-<img src="https://img.freepik.com/free-vector/retro-devices-isometric-composition-with-personal-computer-consisting-from-system-unit-monitor-keyboard-attached-joystick_1284-61168.jpg?w=2000">
+<p align="center"> <img height="250" width="700" src="https://www.windowschimp.com/wp-content/uploads/2019/07/dynamic-desktop-wallpapers-windows-10.jpg" /> </p>
 
 <h1 align="center">Hi 👋, I'm Taron</h1>
 <h3 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.Also I am passionate about making new technologies.Some stacks i enjoy working with include: Spring framework,SQL database,Hibernate ORM.I am looking forward to working with new team and create new projects.I am currently learning new Spring modules.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taron1991&label=Profile%20views&color=0e75b6&style=flat" alt="taron1991" /> </p>
 
 - 💬 Ask me about **Java,SQL**
 
