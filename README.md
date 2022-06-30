@@ -11,7 +11,7 @@ I am currently learning new Spring modules.</h4>
 
 - 📫 How to reach me **funkadelica@mail.ru**
 
-- ⚡ Fun fact **worcoholic**
+- ⚡ Fun fact **worcaholic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
