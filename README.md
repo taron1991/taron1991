@@ -1,7 +1,10 @@
 <p align="center"> <img height="250" width="700" src="https://www.windowschimp.com/wp-content/uploads/2019/07/dynamic-desktop-wallpapers-windows-10.jpg" /> </p>
 
 <h1 align="center">Hi 👋, I'm Taron Gukasyan</h1>
-<h3 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.Also I am passionate about making new technologies.Some stacks i enjoy working with include: Spring framework,SQL database,Hibernate ORM.I am looking forward to working with new team and create new projects.I am currently learning new Spring modules.</h3>
+<h4 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.
+Also I am passionate about making new technologies.Some stacks i enjoy working with include: 
+Spring framework,SQL database,Hibernate ORM.I am looking forward to working with new team and create new projects.
+I am currently learning new Spring modules.</h4>
 
 
 - 💬 Ask me about **Java,SQL**
