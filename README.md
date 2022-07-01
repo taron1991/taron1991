@@ -64,7 +64,7 @@ I am currently learning new Spring modules.</h4>
   [7.1 Log4J](https://github.com/taron1991/LoggingLog4j/tree/master)
   
   
-  **8. Spring framework **
+  **8. Spring framework**
   
   [8.1 SpringCore](https://github.com/taron1991/SpringIoC_DI/tree/master)
   
