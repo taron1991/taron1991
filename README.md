@@ -56,11 +56,44 @@ I am currently learning new Spring modules.</h4>
   **6. Testing**
   
   [6.1 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
+  [6.2 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
   
   
   **7. Logging**
   
   [7.1 Log4J](https://github.com/taron1991/LoggingLog4j/tree/master)
+  
+  
+  **8. Spring framework **
+  
+  [8.1 SpringCore](https://github.com/taron1991/SpringIoC_DI/tree/master)
+  
+  [8.2 SpringCoreTask](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
+  
+  [8.3 SpringMVC](https://github.com/taron1991/SpringMVC/tree/master)
+  
+  [8.4 SpringMVC+DB](https://github.com/taron1991/SpringMVC_Database/tree/master)
+  
+  [8.5 SpringData](https://github.com/taron1991/SpringData/tree/master)
+  
+  [8.6 SpringJdbc](https://github.com/taron1991/SpringData/tree/master)
+  
+  [8.7 SpringORM](https://github.com/taron1991/SpringData/tree/master)
+  
+  [8.8 SpringRest](https://github.com/taron1991/SpringREST/tree/master)
+  
+  [8.9 SpringBoot](https://github.com/taron1991/SpringBoot/tree/master)
+  
+  [8.9.1 SpringSecurity](https://github.com/taron1991/SpringSecurity/tree/master)
+  
+  [8.9.2 SpringSecurityToken](https://github.com/taron1991/SpringSecurityToken/tree/master)
+  
+  [8.9.3 SpringCloud](https://github.com/taron1991/SpringCloudEurika/tree/master)
+  
+  
+  **9. Multithreading**
+  
+  [9.1 BasicFundamentals](https://github.com/taron1991/Multithreading/tree/master)
   
   
   
