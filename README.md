@@ -8,13 +8,13 @@ I am currently learning new Spring modules.</h4>
 
 
 
-- 💬 Ask me about **Java,SQL**
+- 💬 Ask me about: **Java,SQL**
 
-- 📫 How to reach me **funkadelica@mail.ru**
+- 📫 How to reach me: **funkadelica@mail.ru**
 
-- ⚡ Fun fact **worcaholic**
+- ⚡ Fun fact: **worcaholic**
 
-- 👨‍💻 All of my projects are available at [MyGithub](https://github.com/taron1991)
+- 👨‍💻 All of my projects are available at: **[MyGithub](https://github.com/taron1991)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
