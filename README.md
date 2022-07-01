@@ -98,7 +98,7 @@ I am currently learning new Spring modules.</h4>
   
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taron1991&show_icons=true&locale=en&layout=compact" alt="taron1991" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taron1991&show_icons=true&locale=en" alt="taron1991" /></p>
 
