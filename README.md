@@ -1,4 +1,4 @@
-<p align="center"> <img height="250" width="700" src="https://www.windowschimp.com/wp-content/uploads/2019/07/dynamic-desktop-wallpapers-windows-10.jpg" /> </p>
+<p align="center"> <img height="200" width="750" src="https://www.windowschimp.com/wp-content/uploads/2019/07/dynamic-desktop-wallpapers-windows-10.jpg" /> </p>
 
 <h1 align="center">Hi 👋, I'm Taron Gukasyan</h1>
 <h4 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.
