@@ -103,7 +103,15 @@ I am currently learning new Spring modules.</h4>
   
   **10. SOLID Principles**
   
- [10.1 All principles](https://github.com/taron1991/SOLID-Principles/tree/master)
+ [10.1 Single-Responsibility Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/singleresponsibility)
+ 
+ [10.2 Open-Closed Principles](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/openclosed)
+ 
+ [10.3 Liskov Substitution Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/liskovsubstitution)
+ 
+ [10.4 Interface Segregation Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/interfacesegregation)
+ 
+ [10.5 Dependency Inversion Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/dependencyinversion)
   
   
   
