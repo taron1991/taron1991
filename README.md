@@ -94,7 +94,7 @@ I am currently learning new Spring modules.</h4>
   
   **9. Multithreading**
   
-  [9.1 Threads,Volatile,Synchronized](https://github.com/taron1991/Multithreading/tree/master)
+  [9.1 Threads,Volatile,Synchronized,wait(),notify()](https://github.com/taron1991/Multithreading/tree/master)
   
   
   
