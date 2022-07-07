@@ -101,8 +101,12 @@ I am currently learning new Spring modules.</h4>
   [9.3 Threadpool,Executors,Deadlock](https://github.com/taron1991/MultithreadingProject/tree/deadlockpool)
   
   
+  **10. SOLID Principles**
   
-
+ [10.1 All principles](https://github.com/taron1991/SOLID-Principles/tree/master)
+  
+  
+  
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taron1991&show_icons=true&locale=en" alt="taron1991" /></p>
