@@ -96,6 +96,10 @@ I am currently learning new Spring modules.</h4>
   
   [9.1 Threads,Volatile,Synchronized,wait(),notify()](https://github.com/taron1991/MultithreadingProject/tree/master)
   
+  [9.2 Semaphores](https://github.com/taron1991/MultithreadingProject/tree/semaphore)
+  
+  [9.3 Threadpool,Executors,Deadlock](https://github.com/taron1991/MultithreadingProject/tree/deadlockpool)
+  
   
   
 
