@@ -40,7 +40,19 @@ I am currently learning new Spring modules.</h4>
   
   **3. Design Patterns**
   
-  [3.1 TopJavaPatterns](https://github.com/taron1991/DesignPatterns)
+  [3.1 Builder](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/builder)
+  
+  [3.2 Decorator](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/decorator)
+  
+  [3.3 Facade](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/facade)
+  
+  [3.4 Factory](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/factory)
+  
+  [3.5 Proxy](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/proxy)
+  
+  [3.6 Singleton](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/singleton)
+  
+  [3.7 Strategy](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/strategy)
   
   
   **4. JDBC API**
