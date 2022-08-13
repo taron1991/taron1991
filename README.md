@@ -16,6 +16,8 @@ I am currently learning new Spring modules.</h4>
 
 - 👨‍💻 All of my projects are available at: **[MyGithub](https://github.com/taron1991)**
 
+- 📜 Certificates: **Stepik,GeekBrains**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/taron west" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taron west" height="20" width="30" /></a>
