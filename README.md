@@ -16,7 +16,7 @@ I am currently learning new Spring modules.</h4>
 
 - 👨‍💻 All of my projects are available at: **[MyGithub](https://github.com/taron1991)**
 
-- 📜 Certificates: **Stepik,GeekBrains**
+- 📜 Certificates: **[Stepik](https://github.com/taron1991/taron1991/blob/main/b6c2a08c89d58cb78d901f0242185139813449de.pdf),[GeekBrains](https://github.com/taron1991/taron1991/blob/main/1935983.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
