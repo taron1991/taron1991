@@ -128,9 +128,13 @@ I am currently learning new Spring modules.</h4>
  [10.5 Dependency Inversion Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/dependencyinversion)
   
   
+  **11. Docker container**
   
+  [11.1 Rest project + DB](https://github.com/taron1991/dockerProject/blob/master/src/main/java/com/example/demo/controller/Rest.java)
   
-  
+  [11.2 Dockerfile](https://github.com/taron1991/dockerProject/blob/master/Dockerfile)
+ 
+  [11.3 Docker compose](https://github.com/taron1991/dockerProject/blob/master/docker-compose.yml)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taron1991&show_icons=true&locale=en" alt="taron1991" /></p>
