@@ -67,11 +67,13 @@ I am currently learning new Spring modules.</h4>
   [5.1 Hibernate](https://github.com/taron1991/JDBC_Hibernate_Memory)
   
    
-  **6. Testing**
+  **6. Testing & Mockito** 
   
-  [6.1 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
+  [6.2 Mockito](https://github.com/taron1991/Mockito/tree/master/src/test/java/com/example/mockito)
   
-  [6.2 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
+  [6.3 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
+  
+  [6.4 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
   
   
   **7. Logging**
