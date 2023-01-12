@@ -155,7 +155,7 @@ I am currently learning new Spring modules.</h4>
   [13.1 Spring Boot+Kafka+Docker](https://github.com/taron1991/Apache-Kafka/tree/master)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taron1991&show_icons=true&locale=en" alt="taron1991" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taron1991&" alt="taron1991" /></p>
 
