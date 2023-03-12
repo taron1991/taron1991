@@ -111,9 +111,11 @@ I am currently learning new Spring modules.</h4>
   
   [8.9.2 SpringSecurityToken](https://github.com/taron1991/SpringSecurityToken/tree/master)
   
-  [8.9.3 SpringCloud+EurekaClient](https://github.com/taron1991/SpringCloudEurika/tree/master)
+  [8.9.3 Spring+Microservices](https://github.com/taron1991/Microservice/tree/master)
   
-  [8.9.4 SpringCloud+DiscoveryCLient+ReactiveWeb](https://github.com/taron1991/Cloud/tree/master)
+  [8.9.4 SpringCloud+EurekaClient](https://github.com/taron1991/SpringCloudEurika/tree/master)
+  
+  [8.9.5 SpringCloud+DiscoveryCLient+ReactiveWeb](https://github.com/taron1991/Cloud/tree/master)
   
   
   **9. Multithreading**
