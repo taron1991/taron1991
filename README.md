@@ -75,11 +75,13 @@ I am currently learning new Spring modules.</h4>
    
   **6. Testing & Mockito** 
   
-  [6.2 Mockito](https://github.com/taron1991/Mockito/tree/master/src/test/java/com/example/mockito)
+  [6.1 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
   
-  [6.3 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
+  [6.2 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
   
-  [6.4 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
+  [6.3 Mockito](https://github.com/taron1991/Mockito/tree/master/src/test/java/com/example/mockito)
+  
+  [6.4 Mockito+SpringBootTest](https://github.com/taron1991/MockitoSpring/blob/master/src/test/java/org/pro/mockito/pro/MainClassTest.java)
   
   
   **7. Logging**
