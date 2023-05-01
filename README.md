@@ -83,6 +83,10 @@ I am currently learning new Spring modules.</h4>
   
   [6.4 Mockito+SpringBootTest](https://github.com/taron1991/MockitoSpring/blob/master/src/test/java/org/pro/mockito/pro/MainClassTest.java)
   
+  [6.5 Mockito+Spring+WebMvcTest](https://github.com/taron1991/DataJpaTest/blob/master/src/test/java/com/example/dbtest/datajpatest/DbTest.java)
+  
+  [6.6 Mockito+Spring+DataJpaTest](https://github.com/taron1991/WebMvcTest/blob/master/src/test/java/org/pro/mockito/webmvctest/PersonControllerTest.java)
+  
   
   **7. Logging**
   
