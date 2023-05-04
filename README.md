@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Taron Gukasyan</h1>
 <h4 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.
 Also I am passionate about making new technologies.Some stacks i enjoy working with include: 
-Spring framework,SQL database,Hibernate ORM.I am looking forward to working with new team and create new projects.
+Spring framework,SQL database,Hibernate ORM.I am looking forward to working with new team and create new projects. 
 I am currently learning new Spring modules.</h4>
 
 
@@ -83,9 +83,9 @@ I am currently learning new Spring modules.</h4>
   
   [6.4 Mockito+SpringBootTest](https://github.com/taron1991/MockitoSpring/blob/master/src/test/java/org/pro/mockito/pro/MainClassTest.java)
   
-  [6.5 Mockito+Spring+WebMvcTest](https://github.com/taron1991/DataJpaTest/blob/master/src/test/java/com/example/dbtest/datajpatest/DbTest.java)
+  [6.5 Mockito+Spring+DataJpaTest](https://github.com/taron1991/DataJpaTest/blob/master/src/test/java/com/example/dbtest/datajpatest/DbTest.java)
   
-  [6.6 Mockito+Spring+DataJpaTest](https://github.com/taron1991/WebMvcTest/blob/master/src/test/java/org/pro/mockito/webmvctest/PersonControllerTest.java)
+  [6.6 Mockito+Spring+WebMvcTest](https://github.com/taron1991/WebMvcTest/blob/master/src/test/java/org/pro/mockito/webmvctest/PersonControllerTest.java)
   
   
   **7. Logging**
