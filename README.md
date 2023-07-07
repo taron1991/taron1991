@@ -76,16 +76,18 @@ I am currently learning new Spring modules.</h4>
   **6. Testing & Mockito** 
   
   [6.1 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
+
+  [6.2 JUnit5 Project](https://github.com/taron1991/Junit5/blob/master/src/test/java/junit/UserTest.java)
   
-  [6.2 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
+  [6.3 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
   
-  [6.3 Mockito](https://github.com/taron1991/Mockito/tree/master/src/test/java/com/example/mockito)
+  [6.4 Mockito](https://github.com/taron1991/Mockito/tree/master/src/test/java/com/example/mockito)
   
-  [6.4 Mockito+SpringBootTest](https://github.com/taron1991/MockitoSpring/blob/master/src/test/java/org/pro/mockito/pro/MainClassTest.java)
+  [6.5 Mockito+SpringBootTest](https://github.com/taron1991/MockitoSpring/blob/master/src/test/java/org/pro/mockito/pro/MainClassTest.java)
   
-  [6.5 Mockito+Spring+DataJpaTest](https://github.com/taron1991/DataJpaTest/blob/master/src/test/java/com/example/dbtest/datajpatest/DbTest.java)
+  [6.6 Mockito+Spring+DataJpaTest](https://github.com/taron1991/DataJpaTest/blob/master/src/test/java/com/example/dbtest/datajpatest/DbTest.java)
   
-  [6.6 Mockito+Spring+WebMvcTest](https://github.com/taron1991/WebMvcTest/blob/master/src/test/java/org/pro/mockito/webmvctest/PersonControllerTest.java)
+  [6.7 Mockito+Spring+WebMvcTest](https://github.com/taron1991/WebMvcTest/blob/master/src/test/java/org/pro/mockito/webmvctest/PersonControllerTest.java)
   
   
   **7. Logging**
