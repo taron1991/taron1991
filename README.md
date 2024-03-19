@@ -85,9 +85,11 @@ I am currently learning new Spring modules.</h4>
   
   [6.5 Mockito+SpringBootTest](https://github.com/taron1991/BootTest/blob/master/src/test/java/com/example/sprinwebmvctest/controler/IntegrationTest.java)
   
-  [6.6 Mockito+Spring+DataJpaTest](https://github.com/taron1991/DataJpaTest/blob/master/src/test/java/com/example/dbtest/datajpatest/DbTest.java)
+  [6.6 Spring+DataJpaTest+PostgreSQL(RealDB)](https://github.com/taron1991/JpaTest/blob/master/src/test/java/com/example/webmvctest/dataJpaTest/JpaBookRepRealDBTest.java)
+
+  [6.7 Spring+DataJpaTest+H2(FakeDB)](https://github.com/taron1991/JpaTest/blob/master/src/test/java/com/example/webmvctest/dataJpaTest/FakeDbTestJPA.java)
   
-  [6.7 Mockito+Spring+WebMvcTest](https://github.com/taron1991/BootTest/blob/master/src/test/java/com/example/sprinwebmvctest/controler/TaskControlerTest.java)
+  [6.8 Mockito+Spring+WebMvcTest](https://github.com/taron1991/BootTest/blob/master/src/test/java/com/example/sprinwebmvctest/controler/TaskControlerTest.java)
   
   
   **7. Logging**
