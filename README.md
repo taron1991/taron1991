@@ -168,7 +168,8 @@ I am currently learning new Spring modules.</h4>
   
   **13. Apache Kafka**
   
-  [13.1 Spring Boot+Kafka+Docker](https://github.com/taron1991/Apache-Kafka/tree/master)
+  [13.1 Spring Boot+Kafka](https://github.com/taron1991/Kafka/tree/master/src/main)
+  [13.2 Spring Boot+Kafka+Docker](https://github.com/taron1991/Apache-Kafka/tree/master)
 
 
 
