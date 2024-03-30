@@ -160,7 +160,7 @@ I am currently learning new Spring modules.</h4>
  
   [11.3 Docker compose (application container+db container)](https://github.com/taron1991/dockerProject/blob/master/docker-compose.yml)
 
-  [11.4 Docker compose (application real+db container)](https://github.com/taron1991/DockerFakedb/blob/master/compose.yaml))
+  [11.4 Docker compose (application real+db container)](https://github.com/taron1991/DockerFakedb/blob/master/compose.yaml)
 
 
   **12. Kubernetes**
