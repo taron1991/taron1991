@@ -118,6 +118,8 @@ I am currently learning new Spring modules.</h4>
   [8.9 SpringBoot](https://github.com/taron1991/SpringBoot/tree/master)
   
   [8.9.1 SpringSecurity](https://github.com/taron1991/SpringSecurity/tree/master)
+
+  [8.9.1.1 SpringSecurityDAO](https://github.com/taron1991/Security3-4/tree/master)
   
   [8.9.2 SpringSecurityToken](https://github.com/taron1991/SpringSecurityToken/tree/master)
   
