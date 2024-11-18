@@ -71,6 +71,8 @@ I am currently learning new Spring modules.</h4>
   [5.3 OneToMany&ManyToOne Relationship](https://github.com/taron1991/OneToMany/tree/master/src/main/java/com/example/mockito/classTest)
   
   [5.4 ManyToMany Relationship](https://github.com/taron1991/ManyToMany/tree/master/src/main/java/com/example/mockito/classTest)
+   
+  [5.5 Hibernate+JDBC2](https://github.com/taron1991/KataProject/tree/master)
   
    
   **6. Testing & Mockito** 
