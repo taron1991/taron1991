@@ -107,7 +107,9 @@ I am currently learning new Spring modules.</h4>
   
   [8.3 SpringMVC](https://github.com/taron1991/SpringMVC/tree/master)
   
-  [8.4 SpringMVC+DB](https://github.com/taron1991/SpringMVC_Database/tree/master)
+  [8.4.1 SpringMVC+DB](https://github.com/taron1991/SpringMVC_Database/tree/master)
+ 
+  [8.4.2 SpringMVC+DB+Thymeleaf](https://github.com/taron1991/SpringMVCThymeleaf/tree/master)
   
   [8.5 SpringData](https://github.com/taron1991/SpringData/tree/master)
   
