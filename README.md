@@ -173,7 +173,7 @@ I am currently learning new Spring modules.</h4>
 
   **12. Flyway**
   
-  [12.1 application.yml](https://github.com/taron1991/Flyway/blob/master/src/main/resources/application.yml)
+  [12.1 Application.yml](https://github.com/taron1991/Flyway/blob/master/src/main/resources/application.yml)
 
 
   **13. Kubernetes**
