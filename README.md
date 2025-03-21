@@ -135,6 +135,8 @@ I am currently learning new Spring modules.</h4>
   
   [8.9.6 SpringCloud+DiscoveryCLient+ReactiveWeb](https://github.com/taron1991/Cloud/tree/master)
   
+  [8.9.7 SpringQuartzScheduler](https://github.com/taron1991/SpringQuartz/tree/master)
+  
   
   **9. Multithreading**
   
