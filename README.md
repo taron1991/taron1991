@@ -10,7 +10,7 @@ I am currently learning new Spring modules.</h4>
 
 - 💬 Ask me about: **Java,SQL**
 
-- 📫 How to reach to me: **funkadelica@mail.ru**
+- 📫 How to reach out to me: **funkadelica@mail.ru**
 
 - ⚡ Fun fact: **worcaholic**
 
